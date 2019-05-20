@@ -17,16 +17,16 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This video course is for data scientists or data analysts who want to master the art of data analysis and statistics using the R programming language.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-System Requirements
-•An Intel-compatible platform running Windows 2000, XP/2003/Vista/7/8/2012 Server/8.1/10.
-•At least 32 MB of RAM, a mouse, and enough disk space for recovered files, image files, etc.
-•The administrative privileges are required to install and run R-Studio utilities under Windows 2000/XP/2003/Vista/7/8/2012 Server/8.1/10.
-•A network connection for data recovering over network
+System Requirements<br/>
+•An Intel-compatible platform running Windows 2000, XP/2003/Vista/7/8/2012 Server/8.1/10.<br/>
+•At least 32 MB of RAM, a mouse, and enough disk space for recovered files, image files, etc.<br/>
+•The administrative privileges are required to install and run R-Studio utilities under Windows 2000/XP/2003/Vista/7/8/2012 Server/8.1/10.<br/>
+•A network connection for data recovering over network<br/>
 
 
-RAM: Minimum- 6GB-Win, 8GB-Mac; Recommended- 8GB
-Storage: Minimum- 7200RPM STATA with 20GB of available space, Recommended-SSD with 40GB of available space
-Processor: Minimum-Intel Core i3 2.5G hz, Recommended-Intel Core i5
+RAM: Minimum- 6GB-Win, 8GB-Mac; Recommended- 8GB<br/>
+Storage: Minimum- 7200RPM STATA with 20GB of available space, Recommended-SSD with 40GB of available space<br/>
+Processor: Minimum-Intel Core i3 2.5G hz, Recommended-Intel Core i5<br/>
 
 
 ## Related Products
